@@ -35,8 +35,7 @@ These libraries are inside the folder node_modules
 
 For compute the currency converter we us the command cash like this:
 
-	- node /bin/index.js 
-	- $ cash <amount> <from> <to>
+	- node /bin/index.js cash <amount> <from> <to>
 	- $ cash <options>
 
    Where the options are: --set -s   for set default currencies
