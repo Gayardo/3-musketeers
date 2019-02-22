@@ -31,6 +31,19 @@ These libraries are inside the folder node_modules
 	4. chack that all dependencies are updates into the package.json file
 ![](images/Dependencies.jpg)
 
+## How to use in the terminal
+
+For compute the currency converter we us the command cash like this:
+
+	- node /bin/index.js 
+	- $ cash <amount> <from> <to>
+	- $ cash <options>
+
+   Where the options are: --set -s   for set default currencies
+	
+   Example: 
+	-$ cash 35 usd eur pln
+
 ## Deeper focus on the code
 
 Now, we can focus on the code which is inside the folder bin. There is 3 javascript files
