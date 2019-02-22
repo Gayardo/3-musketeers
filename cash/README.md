@@ -41,7 +41,7 @@ For compute the currency converter we us the command cash like this:
 
    Where the options are: --set -s   for set default currencies
 	
-   Example: 
+Example: 
 	-$ cash 35 usd eur pln
 
 ## Deeper focus on the code
