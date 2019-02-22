@@ -14,7 +14,7 @@ These libraries are inside the folder node_modules
 	- money
 	- ora
 
-##Installation
+## Installation
 
 	1. We fork the repository : github.com/92bondstreet/3-musketeers
 
@@ -30,7 +30,35 @@ These libraries are inside the folder node_modules
 	
 	4. chack that all dependencies are updates into the package.json file
 ![](images/Dependencies.jpg)
-![](images/echangePic.jpg)
+
+## Deeper focus on the code
+
+Now, we can focus on the code which is inside the folder bin. There is 3 javascript files
+	
+	* cash.js
+ 	* constante.js
+	* index.js
+
+## cash.js
+
+![](images/cash1.png)
+![](images/cash2.png)
+
+## index.js
+
+![](images/index.png)
+
+# constant.js
+
+![](images/constant.png)
+
+
+
+
+
+
+
+	
 
 
  
