@@ -29,8 +29,8 @@ These libraries are inside the folder node_modules
 		* npm i
 	
 	4. chack that all dependencies are updates into the package.json file
-		![](images/Dependencies.jpg)
-		![](images/echangePic.jpg)
+![](images/Dependencies.jpg)
+![](images/echangePic.jpg)
 
 
  
