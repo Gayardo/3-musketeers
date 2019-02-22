@@ -20,16 +20,16 @@ These libraries are inside the folder node_modules
 
 	2. We clone our forked repository project
 
-		? cd /path/to/workspace
-		? git clone git@github.com:YOUR_USERNAME/3-musketeers.git
+		* cd /path/to/workspace
+		* git clone git@github.com:YOUR_USERNAME/3-musketeers.git
 	
 	3. We install all the dependencies (node_modules)
 
-		? cd /path/to/workspace/3-musketeers/cash
-		? npm i
+		* cd /path/to/workspace/3-musketeers/cash
+		* npm i
 	
 	4. chack that all dependencies are updates into the package.json file
-		![](images/Dependencies.jpeg)
+		![](images/Dependencies.JPG)
 		
 
 
