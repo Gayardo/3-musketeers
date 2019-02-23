@@ -23,7 +23,7 @@ describe('starwars-names', () => {
 
   describe('random', () => {
     test('should return a random item from the starWars.all', () => {
-      expect(starWarsNames)
+      //expect(starWarsNames)
     });
 
     test('should return an array of random items if passed a number', () => {
